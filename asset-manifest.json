@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myaccordion-app/static/css/main.6dc9fde3.chunk.css",
+    "main.js": "/myaccordion-app/static/js/main.13101835.chunk.js",
+    "main.js.map": "/myaccordion-app/static/js/main.13101835.chunk.js.map",
+    "runtime-main.js": "/myaccordion-app/static/js/runtime-main.199a0fda.js",
+    "runtime-main.js.map": "/myaccordion-app/static/js/runtime-main.199a0fda.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/myaccordion-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.95ab4c44.chunk.js": "/myaccordion-app/static/js/2.95ab4c44.chunk.js",
+    "static/js/2.95ab4c44.chunk.js.map": "/myaccordion-app/static/js/2.95ab4c44.chunk.js.map",
+    "static/js/3.d4b6d7e7.chunk.js": "/myaccordion-app/static/js/3.d4b6d7e7.chunk.js",
+    "static/js/3.d4b6d7e7.chunk.js.map": "/myaccordion-app/static/js/3.d4b6d7e7.chunk.js.map",
+    "index.html": "/myaccordion-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/myaccordion-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dc9fde3.chunk.css.map": "/myaccordion-app/static/css/main.6dc9fde3.chunk.css.map",
+    "static/js/2.95ab4c44.chunk.js.LICENSE.txt": "/myaccordion-app/static/js/2.95ab4c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199a0fda.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.95ab4c44.chunk.js",
+    "static/css/main.6dc9fde3.chunk.css",
+    "static/js/main.13101835.chunk.js"
+  ]
+}
